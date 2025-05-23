@@ -1,0 +1,23 @@
+{
+  "name": "ytplaylist2course",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000y\u0000t\u0000p\u0000l\u0000a\u0000y\u0000l\u0000i\u0000s\u0000t\u00002\u0000c\u0000o\u0000u\u0000r\u0000s\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
